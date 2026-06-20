@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pyngrok
+python-multipart
+opencv-python
+keras-facenet
+scipy
+dlib
+tensorflow
